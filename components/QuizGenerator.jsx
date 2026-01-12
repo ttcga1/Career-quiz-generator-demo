@@ -1,18 +1,6 @@
 "use client";
 
 
-<div style={{
-  position: "fixed",
-  bottom: "10px",
-  right: "10px",
-  fontSize: "12px",
-  opacity: 0.6
-}}>
-  Build: v2-enhanced
-</div>
-
-
-
 
 import React, { useEffect, useMemo, useState } from "react";
 
