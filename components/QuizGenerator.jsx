@@ -1,3 +1,6 @@
+"use client";
+
+
 <div style={{
   position: "fixed",
   bottom: "10px",
@@ -10,7 +13,6 @@
 
 
 
-"use client";
 
 import React, { useEffect, useMemo, useState } from "react";
 
